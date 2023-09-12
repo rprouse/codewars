@@ -1,4 +1,4 @@
-namespace codewars.katas;
+namespace codewars;
 
 public class SquareEveryDigit
 {

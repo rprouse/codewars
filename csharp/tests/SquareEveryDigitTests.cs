@@ -1,8 +1,7 @@
-using codewars.katas;
 using NUnit.Framework;
 using Shouldly;
 
-namespace codewars.tests;
+namespace codewars;
 
 public class SquareEveryDigitTests
 {
