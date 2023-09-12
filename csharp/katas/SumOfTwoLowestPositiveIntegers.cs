@@ -1,6 +1,4 @@
-﻿using System.Linq;
-
-namespace codewars;
+﻿namespace codewars;
 
 public class SumOfTwoLowestPositiveIntegers
 {
