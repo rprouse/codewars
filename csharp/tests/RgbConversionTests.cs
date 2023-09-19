@@ -16,4 +16,3 @@ public class RgbConversionTests
         RgbConversion.Rgb(r, g, b).ShouldBe(expected);
     }
 }
-
