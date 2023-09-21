@@ -1,4 +1,6 @@
-﻿namespace codewars;
+﻿using System.Linq;
+
+namespace codewars;
 
 class WhichAreIn
 {

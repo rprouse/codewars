@@ -1,4 +1,6 @@
-﻿namespace codewars;
+﻿using System;
+
+namespace codewars;
 
 public class HumanReadableTime
 {

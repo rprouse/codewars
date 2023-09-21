@@ -1,3 +1,5 @@
+using System.Linq;
+
 namespace codewars;
 
 public class SquareEveryDigit
